@@ -1,2 +1,2 @@
-# Distributed-Computing-
-centralized and token ring mutual exclusion algorithms.
+python centralized_server.py   
+python centralized_client.py   
